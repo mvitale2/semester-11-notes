@@ -11,10 +11,12 @@
             "id": "c8090e27f276a6ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "CSI-4999/Assignment1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Assignment1"
             }
           }
         ]
@@ -166,6 +168,7 @@
   },
   "active": "c8090e27f276a6ef",
   "lastOpenFiles": [
+    "CSI-4999/Assignment1.pdf",
     "Bonfire.md",
     "Welcome.md"
   ]
