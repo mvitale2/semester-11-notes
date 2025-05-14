@@ -1,0 +1,6 @@
+- [x] Write Current Research Draft ⏳ 2025-05-12 ✅ 2025-05-13
+- [x] Turn in Commented & Revised Current Research ⏳ 2025-05-12 ✅ 2025-05-13
+- [x] Write Abstract & Biographical Notes ✅ 2025-05-13
+- [ ] Turn in Commented Abstract 📅 2025-05-19 
+- [ ] Draft Aims, Objectives, & Methodologies Section 📅 2025-05-18 ⏫ 
+- [ ] Turn in Commented Aims, Objectives, & Methodologies Section 📅 2025-05-26

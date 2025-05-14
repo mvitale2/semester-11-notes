@@ -1,0 +1,3 @@
+- [ ] Turn in Assignment 1 📅 2025-05-19 
+- [ ] Figure out how to save files on local system with electron➕ 2025-05-13 
+- [ ] Learn how Supabase real-time works➕ 2025-05-13 
