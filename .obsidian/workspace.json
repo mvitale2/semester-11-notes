@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd8e7e69ebb24e79",
+        "id": "f5485be5976b4844",
         "type": "tabs",
         "children": [
           {
-            "id": "e0a9d28bf8e386cf",
+            "id": "fb6158882bd844c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-4999/a1/vitale_a1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "vitale_a1"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 300
   },
   "right": {
     "id": "b08a3f8e44170bc1",
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSI-4999/To-do.md",
+                "file": "Bonfire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To-do"
+              "title": "Backlinks for Bonfire"
             }
           },
           {
@@ -148,7 +152,7 @@
             }
           },
           {
-            "id": "5f57cce21143c048",
+            "id": "ec3c8810d7c4a642",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,28 +170,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "7fc7d68300f4acec",
+  "active": "fb6158882bd844c2",
   "lastOpenFiles": [
-    "CSI-4999/a1/Assignment1.pdf",
+    "CSI-4999/a1/vitale_a1.pdf",
+    "HC-3900/To-do.md",
+    "HC-3900",
+    "CSI-4999/a1/vitale_a1.md",
     "CSI-4999/a1/Pasted image 20250514152146.png",
     "CSI-4999/a1/Pasted image 20250514152007.png",
-    "CSI-4999/a1/vitale_a1.md",
     "CSI-4999/a1/Pasted image 20250514151626.png",
+    "CSI-4999/a1/Pasted image 20250514151410.png",
+    "CSI-4999/a1/Assignment1.pdf",
     "CSI-4999/a1",
     "CSI-4999/To-do.md",
-    "CSI-4999/a1/Pasted image 20250514151410.png",
-    "HC-3900/To-do.md",
-    "task test.md",
-    "HC-3900",
+    "CSI-4999/Assignment1.pdf",
     "Bonfire.md",
     "Welcome.md"
   ]
