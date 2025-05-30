@@ -11,10 +11,12 @@
             "id": "8252f1a062600df0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "The Lean Startup -- Eric Ries.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "The Lean Startup -- Eric Ries"
             }
           }
         ]
@@ -175,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fc7d68300f4acec",
+  "active": "8252f1a062600df0",
   "lastOpenFiles": [
+    "The Lean Startup -- Eric Ries.pdf",
     "HC-3900/To-do.md",
     "Bonfire.md",
     "CSI-4999/To-do.md",
