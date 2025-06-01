@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1390cbe64e6624f0",
+        "id": "e1434a89a221c886",
         "type": "tabs",
         "children": [
           {
-            "id": "8252f1a062600df0",
+            "id": "103da0d61a46acc5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "The Lean Startup -- Eric Ries.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "The Lean Startup -- Eric Ries"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -177,22 +175,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8252f1a062600df0",
+  "active": "7fc7d68300f4acec",
   "lastOpenFiles": [
-    "The Lean Startup -- Eric Ries.pdf",
     "HC-3900/To-do.md",
-    "Bonfire.md",
     "CSI-4999/To-do.md",
-    "CSI-4999/a1/vitale_a1.pdf",
+    "CSI-4999/Milestone2.instruction.pdf",
+    "CSI-4999/Research Papers/Concept Maps.zip",
+    "CSI-4999/Research Papers/Concept Maps/voip.png",
+    "CSI-4999/Research Papers/Concept Maps/p2p w tor.png",
+    "CSI-4999/Research Papers/Concept Maps/caro-alvaro.png",
+    "CSI-4999/Research Papers/Concept Maps/almhwani.png",
+    "CSI-4999/Research Papers/voip.pdf",
+    "CSI-4999/Research Papers/p2p w tor.pdf",
+    "CSI-4999/Research Papers/Concept Maps",
+    "CSI-4999/Research Papers/caro-alvaro.pdf",
+    "CSI-4999/Research Papers/11-Ahmed+R.+AlMhanawi.pdf",
+    "CSI-4999/Research Papers",
+    "CSI-4999/Research Papers + Concept Maps/Concept Maps/voip.png",
+    "CSI-4999/Research Papers + Concept Maps/Concept Maps/p2p w tor.png",
+    "CSI-4999/Research Papers + Concept Maps/Concept Maps/caro-alvaro.png",
+    "CSI-4999/Research Papers + Concept Maps/Concept Maps/almhwani.png",
+    "CSI-4999/Research Papers + Concept Maps/Concept Maps",
+    "CSI-4999/Research Papers + Concept Maps/New folder",
+    "CSI-4999/Research Papers + Concept Maps/voip.png",
+    "CSI-4999/Research Papers + Concept Maps/To-do.md",
+    "CSI-4999/Research Papers + Concept Maps/p2p w tor.png",
+    "Bonfire.md",
     "CSI-4999/a1/vitale_a1.md",
-    "CSI-4999/a1/Assignment1.pdf",
-    "CSI-4999/a1/Pasted image 20250514152146.png",
-    "CSI-4999/a1/Pasted image 20250514152007.png",
-    "CSI-4999/a1/Pasted image 20250514151626.png",
-    "CSI-4999/a1",
-    "CSI-4999/a1/Pasted image 20250514151410.png",
     "task test.md",
-    "HC-3900",
     "Welcome.md"
   ]
 }
