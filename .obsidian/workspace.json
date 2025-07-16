@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0f824256781c688",
+        "id": "ff3e46d930b37d5c",
         "type": "tabs",
         "children": [
           {
-            "id": "3c54b54119601a49",
+            "id": "e4df5d7af16f2772",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,8 +175,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fc7d68300f4acec",
+  "active": "e4df5d7af16f2772",
   "lastOpenFiles": [
+    "HC-3900/To-do.md",
+    "conflict-files-obsidian-git.md",
+    "CSI-4999/~$Literature_Review_Prep__1_.xlsx",
+    "CSI-4999/Literature_Review_Prep__1_.xlsx",
     "CSI-4999/a2/vitale_a2.md",
     "CSI-4999/a2/vitale_a2.pdf",
     "CSI-4999/a2/Assignment2-BigQuery .pdf",
@@ -188,7 +192,6 @@
     "CSI-4999/a2/~$file.csv",
     "CSI-4999/a2/D7C4E600",
     "CSI-4999/a2/New Microsoft Excel Worksheet.xlsx",
-    "HC-3900/To-do.md",
     "CSI-4999/To-do.md",
     "CSI-4999/Milestone2.instruction.pdf",
     "CSI-4999/Research Papers/Concept Maps.zip",
@@ -196,8 +199,6 @@
     "CSI-4999/Research Papers/Concept Maps/p2p w tor.png",
     "CSI-4999/Research Papers/Concept Maps/caro-alvaro.png",
     "CSI-4999/Research Papers/Concept Maps/almhwani.png",
-    "CSI-4999/Research Papers/voip.pdf",
-    "CSI-4999/Research Papers/p2p w tor.pdf",
     "CSI-4999/Research Papers + Concept Maps/Concept Maps/voip.png",
     "CSI-4999/Research Papers + Concept Maps/Concept Maps/p2p w tor.png",
     "CSI-4999/Research Papers + Concept Maps/To-do.md",

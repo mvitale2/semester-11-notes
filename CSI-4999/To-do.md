@@ -1,4 +1,5 @@
 - [x] Turn in Assignment 1 📅 2025-05-19 ✅ 2025-05-14
 - [ ] Figure out how to save files on local system with electron➕ 2025-05-13 
-- [ ] Learn how Supabase real-time works➕ 2025-05-13 
-- [ ] Turn in Milestone 1 Document 📅 2025-05-28
+- [x] Learn how Supabase real-time works ➕ 2025-05-13 ✅ 2025-06-11
+- [x] Turn in Milestone 1 Document 📅 2025-05-28 ✅ 2025-06-11
+- [x] Write summaries of 2 papers ⏫ 📅 2025-06-17 ✅ 2025-06-11
