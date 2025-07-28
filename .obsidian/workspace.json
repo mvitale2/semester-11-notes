@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff3e46d930b37d5c",
+        "id": "d963d7997d34fe10",
         "type": "tabs",
         "children": [
           {
-            "id": "e4df5d7af16f2772",
+            "id": "596b42cadfd2fb31",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,8 +175,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4df5d7af16f2772",
+  "active": "596b42cadfd2fb31",
   "lastOpenFiles": [
+    "CSI-4999/a3/vitale_a3.md",
+    "CSI-4999/a3/vitale_a3.pdf",
+    "CSI-4999/a3/Pasted image 20250727204648.png",
+    "CSI-4999/a3/Pasted image 20250727204619.png",
+    "CSI-4999/a3/Pasted image 20250727204551.png",
+    "CSI-4999/a3/Pasted image 20250727204439.png",
+    "CSI-4999/a3/Pasted image 20250727204123.png",
+    "CSI-4999/a3/Pasted image 20250727203359.png",
+    "CSI-4999/a3/Pasted image 20250727203335.png",
+    "CSI-4999/a3/Assignment3.pdf",
     "HC-3900/To-do.md",
     "conflict-files-obsidian-git.md",
     "CSI-4999/~$Literature_Review_Prep__1_.xlsx",
@@ -187,20 +197,11 @@
     "CSI-4999/a2/Pasted image 20250715212741.png",
     "CSI-4999/a2/Pasted image 20250715210534.png",
     "CSI-4999/a2/Pasted image 20250715210223.png",
-    "CSI-4999/a2/Pasted image 20250715205910.png",
     "CSI-4999/a2/file.csv",
     "CSI-4999/a2/~$file.csv",
     "CSI-4999/a2/D7C4E600",
     "CSI-4999/a2/New Microsoft Excel Worksheet.xlsx",
     "CSI-4999/To-do.md",
-    "CSI-4999/Milestone2.instruction.pdf",
-    "CSI-4999/Research Papers/Concept Maps.zip",
-    "CSI-4999/Research Papers/Concept Maps/voip.png",
-    "CSI-4999/Research Papers/Concept Maps/p2p w tor.png",
-    "CSI-4999/Research Papers/Concept Maps/caro-alvaro.png",
-    "CSI-4999/Research Papers/Concept Maps/almhwani.png",
-    "CSI-4999/Research Papers + Concept Maps/Concept Maps/voip.png",
-    "CSI-4999/Research Papers + Concept Maps/Concept Maps/p2p w tor.png",
     "CSI-4999/Research Papers + Concept Maps/To-do.md",
     "Bonfire.md",
     "CSI-4999/a1/vitale_a1.md",
